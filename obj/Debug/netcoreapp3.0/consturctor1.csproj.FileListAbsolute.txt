@@ -1,0 +1,11 @@
+C:\csharp\ar\consturctor1\bin\Debug\netcoreapp3.0\consturctor1.exe
+C:\csharp\ar\consturctor1\bin\Debug\netcoreapp3.0\consturctor1.deps.json
+C:\csharp\ar\consturctor1\bin\Debug\netcoreapp3.0\consturctor1.runtimeconfig.json
+C:\csharp\ar\consturctor1\bin\Debug\netcoreapp3.0\consturctor1.runtimeconfig.dev.json
+C:\csharp\ar\consturctor1\bin\Debug\netcoreapp3.0\consturctor1.dll
+C:\csharp\ar\consturctor1\bin\Debug\netcoreapp3.0\consturctor1.pdb
+C:\csharp\ar\consturctor1\obj\Debug\netcoreapp3.0\consturctor1.csprojAssemblyReference.cache
+C:\csharp\ar\consturctor1\obj\Debug\netcoreapp3.0\consturctor1.AssemblyInfoInputs.cache
+C:\csharp\ar\consturctor1\obj\Debug\netcoreapp3.0\consturctor1.AssemblyInfo.cs
+C:\csharp\ar\consturctor1\obj\Debug\netcoreapp3.0\consturctor1.dll
+C:\csharp\ar\consturctor1\obj\Debug\netcoreapp3.0\consturctor1.pdb
